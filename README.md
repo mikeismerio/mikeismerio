@@ -1,4 +1,4 @@
-//<h1 align="center">Hi 👋, I'm Mike Ismerio</h1>
+/* <h1 align="center">Hi 👋, I'm Mike Ismerio</h1> */
 <h3 align="justify">Data Enthusiast and Analyst with a strong background in data manipulation, statistical analysis, and data visualization. Eager to leverage expertise in Python, R, and data-driven problem-solving to contribute to impactful projects and drive data-driven decision-making.</h3>
 
 - 🌱 I’m currently learning **Data Science**
