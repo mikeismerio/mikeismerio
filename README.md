@@ -1,4 +1,4 @@
-<h3 align="justify">Data enthusiast and analyst with experience in data manipulation, statistical analysis, and data visualization. Proficient in Python, R, and data-driven problem-solving. Eager to contribute to impactful projects and drive data-driven decision-making..</h3>
+<h3 align="justify">Data enthusiast and analyst with experience in data manipulation, statistical analysis, and data visualization. Proficient in Python, R, and data-driven problem-solving. Eager to contribute to impactful projects and drive data-driven decision-making.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
