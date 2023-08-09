@@ -19,13 +19,3 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikeismerio&label=Profile%20views&color=0e75b6&style=flat" alt="mikeismerio" /> </p>
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-5836L790MM"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-5836L790MM');
-</script>
