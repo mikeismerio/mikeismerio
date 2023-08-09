@@ -1,12 +1,4 @@
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-5836L790MM"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-5836L790MM');
-</script>
 
 <h3 align="justify">Data enthusiast and analyst with experience in data manipulation, statistical analysis, and data visualization. Proficient in Python, R, and data-driven problem-solving. Eager to contribute to impactful projects and drive data-driven decision-making.</h3>
 
@@ -27,3 +19,13 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikeismerio&label=Profile%20views&color=0e75b6&style=flat" alt="mikeismerio" /> </p>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5836L790MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5836L790MM');
+</script>
