@@ -1,6 +1,14 @@
 
 
-<h3 align="justify">Data enthusiast and analyst with experience in data manipulation, statistical analysis, and data visualization. Proficient in Python, R, and data-driven problem-solving. Eager to contribute to impactful projects and drive data-driven decision-making.</h3>
+<h3 align="justify">
+Currently, I am a passionate data analyst with experience in data manipulation, statistical analysis, and data visualization. Proficient in Python, R, and data-driven problem-solving, I am eager to contribute to impactful projects and promote data-driven decision-making.
+
+I hold a Master's degree in Electronic Engineering with a strong background in electronics and extensive experience in automation. My career has been focused on applying engineering principles to design and optimize systems.
+
+My automation experience includes implementing automated solutions, designing data acquisition systems, and integrating automation technologies to enhance efficiency and productivity. In addition to my technical expertise, I also possess skills in data analysis and visualization, allowing me to harness generated data for informed decision-making and process optimization.
+
+I enjoy collaborating in teams, seeking the best ways to solve problems (work smarter, not harder). When I'm interested in something, I strive to learn as much as possible about the topic, always looking to improve what I'm working on. I consider myself a self-driven, dedicated, and committed individual in my work.
+</h3>
 
 
 <h3 align="left">Connect with me:</h3>
