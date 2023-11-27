@@ -14,10 +14,9 @@
 
 <p style="text-align: justify;">
     I enjoy collaborating in teams, seeking the best ways to solve problems (work smarter, not harder). When I'm interested in something, I strive to learn as much as possible about the topic, always looking to improve what I'm working on. I consider myself a self-driven, dedicated, and committed individual in my work.
-
-
 </p>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9209eb28-3444-41ad-9f0c-d5d6c9a59de9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 <h3 align="left">Connect with me:</h3>
