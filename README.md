@@ -16,6 +16,15 @@
     I enjoy collaborating in teams, seeking the best ways to solve problems (work smarter, not harder). When I'm interested in something, I strive to learn as much as possible about the topic, always looking to improve what I'm working on. I consider myself a self-driven, dedicated, and committed individual in my work.
 </p>
 
+<p style="text-align: justify;">
+    Since my childhood, I developed a passion for solving puzzles and assembling objects, while also displaying an innate interest in understanding the internal workings of things. I constantly took apart toys and explored the possibilities of electronic devices, fueling my curiosity about the world around me. Over time, my fascination expanded to include music.
+
+Currently, I continue to enjoy these activities: the exciting challenge of solving an intricate puzzle and the deep connection I experience when immersing myself in playing a musical instrument. This combination of problem-solving and exploring artistic expression provides a unique balance that has enriched my life in unimaginable ways.
+</p>
+
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
