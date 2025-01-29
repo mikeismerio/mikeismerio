@@ -1,15 +1,14 @@
 
 
 <p style="text-align: justify;">
-    Currently, I am a passionate data analyst with experience in data manipulation, statistical analysis, and data visualization. Proficient in Python, R, and data-driven problem-solving, I am eager to contribute to impactful projects and promote data-driven decision-making.
+Passionate about transforming data into actionable insights through Python, R, SQL, Power BI, and Microsoft Fabric. Experienced in data analysis, automation, and statistical modeling, I thrive in designing solutions that drive data-driven decision-making and process optimization.
+
 </p>
 
-<p style="text-align: justify;">
-    I hold a Master's degree in Electronic Engineering with a strong background in electronics and extensive experience in automation. My career has been focused on applying engineering principles to design and optimize systems.
-</p>
 
 <p style="text-align: justify;">
-    My automation experience includes implementing automated solutions, designing data acquisition systems, and integrating automation technologies to enhance efficiency and productivity. In addition to my technical expertise, I also possess skills in data analysis and visualization, allowing me to harness generated data for informed decision-making and process optimization.
+Throughout my career, I have implemented automated data solutions, designed real-time monitoring systems, and integrated advanced analytics into operational workflows. By combining data analysis, visualization, and machine learning, I drive efficiency improvements and unlock valuable insights from data.
+
 </p>
 
 <p style="text-align: justify;">
@@ -17,9 +16,11 @@
 </p>
 
 <p style="text-align: justify;">
-    Since my childhood, I developed a passion for solving puzzles and assembling objects, while also displaying an innate interest in understanding the internal workings of things. I constantly took apart toys and explored the possibilities of electronic devices, fueling my curiosity about the world around me. Over time, my fascination expanded to include music.
+I am a proactive problem-solver, always looking for smarter and more efficient ways to approach challenges. My self-driven and analytical mindset pushes me to continuously learn, refine processes, and improve decision-making through data insights. I enjoy collaborating in cross-functional teams to develop innovative solutions.
 
-Currently, I continue to enjoy these activities: the exciting challenge of solving an intricate puzzle and the deep connection I experience when immersing myself in playing a musical instrument. This combination of problem-solving and exploring artistic expression provides a unique balance that has enriched my life in unimaginable ways.
+
+Since childhood, I have been fascinated by problem-solving and understanding how things work. This analytical mindset naturally led me to the world of data science and automation, where I apply the same curiosity and structured thinking to solve complex challenges.
+
 </p>
 
 
