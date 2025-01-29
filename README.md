@@ -11,7 +11,7 @@
 </p>
 
 <p style="text-align: justify;">
-    ⚡ <b>Key Skills:</b> Data Analytics | Machine Learning | SQL | Power BI | ETL | Microsoft Fabric | Data Pipelines
+    ⚡ <b>Key Skills:</b> Data Analytics | Machine Learning | SQL | Power BI | ETL | Microsoft Fabric |
 </p>
 
 <p style="text-align: justify;">
