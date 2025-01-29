@@ -1,28 +1,39 @@
 
 
 <p style="text-align: justify;">
-Passionate about transforming data into actionable insights through Python, R, SQL, Power BI, and Microsoft Fabric. Experienced in data analysis, automation, and statistical modeling, I thrive in designing solutions that drive data-driven decision-making and process optimization.
-
-</p>
-
-
-<p style="text-align: justify;">
-Throughout my career, I have implemented automated data solutions, designed real-time monitoring systems, and integrated advanced analytics into operational workflows. By combining data analysis, visualization, and machine learning, I drive efficiency improvements and unlock valuable insights from data.
-
+    🚀 <b>Data Scientist | Analytics Engineer | Data-Driven Problem Solver</b>
 </p>
 
 <p style="text-align: justify;">
-    I enjoy collaborating in teams, seeking the best ways to solve problems (work smarter, not harder). When I'm interested in something, I strive to learn as much as possible about the topic, always looking to improve what I'm working on. I consider myself a self-driven, dedicated, and committed individual in my work.
+    📊 <b>Passionate about transforming data into actionable insights</b> through <b>Python, R, SQL, Power BI, and Microsoft Fabric</b>. 
+    Experienced in <b>data analysis, automation, and statistical modeling</b>, I thrive in designing solutions that drive 
+    <b>data-driven decision-making and process optimization</b>.
 </p>
 
 <p style="text-align: justify;">
-I am a proactive problem-solver, always looking for smarter and more efficient ways to approach challenges. My self-driven and analytical mindset pushes me to continuously learn, refine processes, and improve decision-making through data insights. I enjoy collaborating in cross-functional teams to develop innovative solutions.
-
-
-Since childhood, I have been fascinated by problem-solving and understanding how things work. This analytical mindset naturally led me to the world of data science and automation, where I apply the same curiosity and structured thinking to solve complex challenges.
-
+    ⚡ <b>Key Skills:</b> Data Analytics | Machine Learning | SQL | Power BI | ETL | Microsoft Fabric | Data Pipelines
 </p>
 
+<p style="text-align: justify;">
+    🔍 <b>Throughout my career, I have:</b><br>
+    ✅ Implemented <b>automated data solutions</b><br>
+    ✅ Designed <b>real-time monitoring systems</b><br>
+    ✅ Integrated <b>advanced analytics into operational workflows</b><br>
+</p>
+
+<p style="text-align: justify;">
+    By combining <b>data analysis, visualization, and machine learning</b>, I drive <b>efficiency improvements</b> and unlock <b>valuable insights from data</b>.
+</p>
+
+<p style="text-align: justify;">
+    🤝 <b>I enjoy collaborating in teams</b>, always seeking <b>the best ways to solve problems</b> (work smarter, not harder). 
+    My <b>self-driven and analytical mindset</b> pushes me to continuously learn, refine processes, and optimize decision-making through <b>data insights</b>.
+</p>
+
+<p style="text-align: justify;">
+    🧩 <b>Since childhood, I have been fascinated by problem-solving</b> and understanding how things work. 
+    This curiosity led me to <b>data science and automation</b>, where I apply structured thinking to solve <b>complex challenges</b>.
+</p>
 
 
 
